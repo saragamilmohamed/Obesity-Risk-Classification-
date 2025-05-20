@@ -7,7 +7,7 @@ This repository contains a machine learning project aimed at predicting **obesit
 We’ve built a Streamlit web application that allows users to interactively input their personal and lifestyle data and receive instant obesity risk predictions.
 
 🚀 Try the App Online
-👉 Live Streamlit App:[app link](http://192.168.1.4:8501)
+👉 Live Streamlit App:[app link]([http://192.168.1.4:8501](https://saragamilmohamed-obesity-risk-classification--app-mlobt9.streamlit.app/ ))
 
 
 **Objective**:  
